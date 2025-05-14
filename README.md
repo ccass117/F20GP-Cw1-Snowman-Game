@@ -1,4 +1,4 @@
-## CLone of Snowbuddy parkour game for F20GP coursework 1
+## Clone of Snowbuddy parkour game for F20GP coursework 1
 
 # SnowBuddy
 Main techincal features and assets include:
